@@ -1,11 +1,13 @@
 package problem0;
 
-//Understands the components of an order.
+//Understands what are the components of a bill.
 public class OrderReceipt {
     private Order order;
+    private Customer customer;
 
-    public OrderReceipt(Order order) {
+    public OrderReceipt(Order order, Customer customer) {
         this.order = order;
+        this.customer=customer;
 	}
 
 	public String printReceipt() {
@@ -14,7 +16,7 @@ public class OrderReceipt {
         StringBuilder output = new StringBuilder();
 
         printHeader(output);
-        printAllItems(output);
+        order.printAllItems(output);
         printFooter(output, totalSalesTax, totalBill);
 
 		return output.toString();
@@ -22,31 +24,11 @@ public class OrderReceipt {
 
     private void printFooter(StringBuilder output, double totalSalesTax, double totalBill) {
         output.append("Sales Tax").append('\t').append(totalSalesTax);
-
         output.append("Total Amount").append('\t').append(totalBill);
     }
 
     private void printHeader(StringBuilder output) {
         output.append("======Printing Orders======\n");
-
-        output.append(order.getCustomerName());
-        output.append(order.getCustomerAddress());
-    }
-
-    private void printAllItems(StringBuilder output) {
-        for (LineItem lineItem : order.getLineItems()) {
-            printItemInfo(output, lineItem);
-        }
-    }
-
-    private void printItemInfo(StringBuilder output, LineItem lineItem) {
-        output.append(lineItem.getDescription());
-        output.append('\t');
-        output.append(lineItem.getPrice());
-        output.append('\t');
-        output.append(lineItem.getQuantity());
-        output.append('\t');
-        output.append(lineItem.totalAmount());
-        output.append('\n');
+        output.append(customer.details());
     }
 }

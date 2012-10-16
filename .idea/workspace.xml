@@ -61,7 +61,27 @@
       <file leaf-file-name="LineItem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="13" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0">
+            <state line="13" column="16" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LIneItemTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/problem0/LIneItemTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="50" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/String.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="169" column="19" selection-start="6793" selection-end="6793" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -70,7 +90,7 @@
       <file leaf-file-name="OrderReceiptTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/problem0/OrderReceiptTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="26" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0">
+            <state line="34" column="0" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -79,10 +99,28 @@
       <file leaf-file-name="Order.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/problem0/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.19008264">
+            <state line="48" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.9352518">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Customer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/problem0/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="53" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/problem0/CustomerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="23" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,7 +137,7 @@
       <file leaf-file-name="OrderReceipt.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem0/OrderReceipt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="34" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0">
+            <state line="12" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -115,9 +153,14 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/problem0/OrderReceiptTest.java" />
-        <option value="$PROJECT_DIR$/src/problem0/LineItem.java" />
         <option value="$PROJECT_DIR$/test/problem0/OrderTest.java" />
+        <option value="$PROJECT_DIR$/test/problem0/ListItemTest.java" />
+        <option value="$PROJECT_DIR$/test/problem0/LIneItem.java" />
+        <option value="$PROJECT_DIR$/src/problem0/Customer.java" />
+        <option value="$PROJECT_DIR$/test/problem0/OrderReceiptTest.java" />
+        <option value="$PROJECT_DIR$/test/problem0/LIneItemTest.java" />
+        <option value="$PROJECT_DIR$/test/problem0/CustomerTest.java" />
+        <option value="$PROJECT_DIR$/src/problem0/LineItem.java" />
         <option value="$PROJECT_DIR$/src/problem0/Order.java" />
         <option value="$PROJECT_DIR$/src/problem0/OrderReceipt.java" />
       </list>
@@ -174,6 +217,80 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TWURefactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anagri_TWURrfactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TWURefactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anagri_TWURrfactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TWURefactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anagri_TWURrfactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TWURefactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anagri_TWURrfactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TWURefactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anagri_TWURrfactoring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problem0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -181,17 +298,67 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.intentionPowerPack" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.OrderReceiptTest">
+  <component name="RunManager" selected="JUnit.problem0 in TWURefactoring">
+    <configuration default="false" name="CustomerTest.testCustomerDetails" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TWURefactoring" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem0" />
+      <option name="MAIN_CLASS_NAME" value="problem0.CustomerTest" />
+      <option name="METHOD_NAME" value="testCustomerDetails" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OrderReceiptTest.shouldPrintLineItemAndSalesTaxInformation" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="TWURefactoring" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem0" />
+      <option name="MAIN_CLASS_NAME" value="problem0.OrderReceiptTest" />
+      <option name="METHOD_NAME" value="shouldPrintLineItemAndSalesTaxInformation" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="false" name="OrderReceiptTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
@@ -215,15 +382,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="OrderTest.shouldCalculateTotalSalesTax" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.OrderTest" />
-      <option name="METHOD_NAME" value="shouldCalculateTotalSalesTax" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="problem0.CustomerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -238,38 +405,15 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="OrderTest.shouldCalculateTotalSalesTaxForBillTwo" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="problem0 in TWURefactoring" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.OrderTest" />
-      <option name="METHOD_NAME" value="shouldCalculateTotalSalesTaxForBillTwo" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="OrderTest.shouldCalculateTotalSalesTaxForBillOne" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="TWURefactoring" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.OrderTest" />
-      <option name="METHOD_NAME" value="shouldCalculateTotalSalesTaxForBillOne" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -404,11 +548,12 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.OrderReceiptTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.OrderTest.shouldCalculateTotalSalesTax" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OrderTest.shouldCalculateTotalSalesTaxForBillTwo" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.OrderTest.shouldCalculateTotalSalesTaxForBillOne" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CustomerTest.testCustomerDetails" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OrderReceiptTest.shouldPrintLineItemAndSalesTaxInformation" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.OrderReceiptTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CustomerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.problem0 in TWURefactoring" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -449,7 +594,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -459,19 +604,19 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1686587" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24928162" sideWeight="0.80212486" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1966581" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24928162" sideWeight="0.80345285" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19654715" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16997792" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -535,21 +680,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/problem1/DateParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="19" selection-start="545" selection-end="545" vertical-scroll-proportion="0.40413317" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem2/Direction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="8" selection-start="298" selection-end="298" vertical-scroll-proportion="0.19173364" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem3/Receipt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.050516646" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem3/Taxi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="13" selection-start="32" selection-end="32" vertical-scroll-proportion="0.050516646" />
@@ -585,14 +715,11 @@
         <state line="12" column="13" selection-start="259" selection-end="259" vertical-scroll-proportion="-3.293915" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/String.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="13" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/problem0/OrderReceiptTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" />
+        <state line="169" column="19" selection-start="6793" selection-end="6793" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/problem0/OrderTest.java">
@@ -600,14 +727,53 @@
         <state line="23" column="32" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/problem0/LIneItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="50" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem0/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="53" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/problem0/CustomerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="23" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="16" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/problem0/OrderReceiptTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/problem0/OrderReceipt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="34" selection-start="1162" selection-end="1162" vertical-scroll-proportion="0.0" />
+        <state line="12" column="0" selection-start="275" selection-end="275" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problem0/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="23" selection-end="23" vertical-scroll-proportion="-0.19008264">
+        <state line="48" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.9352518">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

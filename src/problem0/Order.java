@@ -5,26 +5,10 @@ import java.util.List;
 //Understands the information for every receipt.
 public class Order {
     public static final double SALES_TAX_RATE = 0.10;
-    String customerName;
-    String customerAddress;
     List<LineItem> goodsList;
-
-    public Order(String customerName, String customerAddress, List<LineItem> goodsList) {
-        this.customerName = customerName;
-        this.customerAddress = customerAddress;
-        this.goodsList = goodsList;
-    }
 
     public Order(ArrayList<LineItem> listOfItems) {
         this.goodsList = listOfItems;
-    }
-
-    public String getCustomerName() {
-        return customerName;
-    }
-
-    public String getCustomerAddress() {
-        return customerAddress;
     }
 
     public List<LineItem> getLineItems() {
@@ -37,6 +21,7 @@ public class Order {
             totalSalesTax += lineItem.totalAmount() * SALES_TAX_RATE;
         }
         return totalSalesTax;
+
     }
 
     private double calculateSubtotal() {
@@ -55,4 +40,9 @@ public class Order {
         return subtotal + totalSalesTax;
     }
 
+    public void printAllItems(StringBuilder output) {
+        for (LineItem lineItem : getLineItems()) {
+            output.append(lineItem);
+        }
+    }
 }
