@@ -2,7 +2,7 @@ package problem0;
 
 import java.util.ArrayList;
 import java.util.List;
-//Understands the information for every receipt.
+//Understands the details of a set of purchases.
 public class Order {
     public static final double SALES_TAX_RATE = 0.10;
     List<LineItem> goodsList;
@@ -11,37 +11,31 @@ public class Order {
         this.goodsList = listOfItems;
     }
 
-    public List<LineItem> getLineItems() {
-        return goodsList;
-    }
-
     public double totalSalesTax() {
         double totalSalesTax = 0.0;
         for (LineItem lineItem : goodsList) {
             totalSalesTax += lineItem.totalAmount() * SALES_TAX_RATE;
         }
         return totalSalesTax;
-
     }
 
-    private double calculateSubtotal() {
-        double subtotal=0;
-        for (LineItem lineItem : getLineItems()) {
-
-            subtotal += lineItem.totalAmount();
+    private double calculateTotalShelfPrice() {
+        double totalShelfPrice=0;
+        for (LineItem lineItem : goodsList) {
+            totalShelfPrice += lineItem.totalAmount();
         }
-        return subtotal;
+        return totalShelfPrice;
     }
 
     public double totalBill(double totalSalesTax) {
 
-        double subtotal = calculateSubtotal();
+        double totalShelfPrice = calculateTotalShelfPrice();
 
-        return subtotal + totalSalesTax;
+        return totalShelfPrice + totalSalesTax;
     }
 
     public void printAllItems(StringBuilder output) {
-        for (LineItem lineItem : getLineItems()) {
+        for (LineItem lineItem : goodsList) {
             output.append(lineItem);
         }
     }

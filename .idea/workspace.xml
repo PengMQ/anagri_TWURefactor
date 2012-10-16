@@ -61,16 +61,16 @@
       <file leaf-file-name="LineItem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="16" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
+            <state line="13" column="11" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LIneItemTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/problem0/LIneItemTest.java">
+      <file leaf-file-name="TestLineItem.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/problem0/TestLineItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="50" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
+            <state line="18" column="68" selection-start="366" selection-end="366" vertical-scroll-proportion="0.5827338">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,8 +87,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderReceiptTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/problem0/OrderReceiptTest.java">
+      <file leaf-file-name="TestOrderReceipt.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/problem0/TestOrderReceipt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="34" column="0" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
               <folding />
@@ -96,10 +96,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Order.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Order.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/problem0/Order.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.9352518">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,8 +116,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/problem0/CustomerTest.java">
+      <file leaf-file-name="TestCustomer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/problem0/TestCustomer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="23" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
               <folding />
@@ -125,8 +125,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/problem0/OrderTest.java">
+      <file leaf-file-name="TestOrder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/problem0/TestOrder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="32" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0">
               <folding />
@@ -161,8 +161,8 @@
         <option value="$PROJECT_DIR$/test/problem0/LIneItemTest.java" />
         <option value="$PROJECT_DIR$/test/problem0/CustomerTest.java" />
         <option value="$PROJECT_DIR$/src/problem0/LineItem.java" />
-        <option value="$PROJECT_DIR$/src/problem0/Order.java" />
         <option value="$PROJECT_DIR$/src/problem0/OrderReceipt.java" />
+        <option value="$PROJECT_DIR$/src/problem0/Order.java" />
       </list>
     </option>
   </component>
@@ -313,13 +313,13 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager" selected="JUnit.problem0 in TWURefactoring">
-    <configuration default="false" name="CustomerTest.testCustomerDetails" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestCustomer.testCustomerDetails" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.CustomerTest" />
+      <option name="MAIN_CLASS_NAME" value="problem0.TestCustomer" />
       <option name="METHOD_NAME" value="testCustomerDetails" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -336,13 +336,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="OrderReceiptTest.shouldPrintLineItemAndSalesTaxInformation" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestOrderReceipt.shouldPrintLineItemAndSalesTaxInformation" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.OrderReceiptTest" />
+      <option name="MAIN_CLASS_NAME" value="problem0.TestOrderReceipt" />
       <option name="METHOD_NAME" value="shouldPrintLineItemAndSalesTaxInformation" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -359,13 +359,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="OrderReceiptTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestOrderReceipt" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.OrderReceiptTest" />
+      <option name="MAIN_CLASS_NAME" value="problem0.TestOrderReceipt" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -382,13 +382,13 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true">
+    <configuration default="false" name="TestCustomer" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="TWURefactoring" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem0" />
-      <option name="MAIN_CLASS_NAME" value="problem0.CustomerTest" />
+      <option name="MAIN_CLASS_NAME" value="problem0.TestCustomer" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -549,10 +549,10 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CustomerTest.testCustomerDetails" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.OrderReceiptTest.shouldPrintLineItemAndSalesTaxInformation" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.OrderReceiptTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CustomerTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestCustomer.testCustomerDetails" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestOrderReceipt.shouldPrintLineItemAndSalesTaxInformation" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestOrderReceipt" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestCustomer" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.problem0 in TWURefactoring" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -722,42 +722,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/problem0/OrderTest.java">
+    <entry file="file://$PROJECT_DIR$/test/problem0/TestOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="32" selection-start="616" selection-end="616" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/problem0/LIneItemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="50" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem0/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="53" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/problem0/CustomerTest.java">
+    <entry file="file://$PROJECT_DIR$/test/problem0/TestCustomer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="23" selection-start="255" selection-end="255" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="16" selection-start="357" selection-end="357" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/problem0/OrderReceiptTest.java">
+    <entry file="file://$PROJECT_DIR$/test/problem0/TestOrderReceipt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="34" column="0" selection-start="1265" selection-end="1265" vertical-scroll-proportion="0.0">
           <folding />
@@ -773,7 +750,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problem0/Order.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.9352518">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem0/LineItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="11" selection-start="352" selection-end="352" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problem0/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="53" selection-start="415" selection-end="415" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/problem0/TestLineItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="68" selection-start="366" selection-end="366" vertical-scroll-proportion="0.5827338">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
